@@ -35,6 +35,18 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
             </NavLink>
         </nav>
+        <ul>
+            <li>
+                <a target="_blank" rel="norefferer" href="https://www.linkedin.com/in/stevehudek/">
+                    <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
+                </a>
+            </li>
+            <li>
+                <a target="_blank" rel="norefferer" href="https://github.com/sjhudek">
+                    <FontAwesomeIcon icon={faGithub} color='#4d4d4e' />
+                </a>
+            </li>
+        </ul>
     </div>
 )
 

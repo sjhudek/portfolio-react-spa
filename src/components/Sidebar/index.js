@@ -5,16 +5,16 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
     faLinkedin,
     faGithub,
-    faYoutube,
-    faSkype,
+    // faYoutube,
+    // faSkype,
   } from '@fortawesome/free-brands-svg-icons'
   import {
     faHome,
     faUser,
     faEnvelope,
-    faSuitcase,
-    faBars,
-    faClose,
+    // faSuitcase,
+    // faBars,
+    // faClose,
   } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
 
@@ -37,12 +37,12 @@ const Sidebar = () => (
         </nav>
         <ul>
             <li>
-                <a target="_blank" rel="norefferer" href="https://www.linkedin.com/in/stevehudek/">
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/stevehudek/">
                     <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="norefferer" href="https://github.com/sjhudek">
+                <a target="_blank" rel="noreferrer" href="https://github.com/sjhudek">
                     <FontAwesomeIcon icon={faGithub} color='#4d4d4e' />
                 </a>
             </li>

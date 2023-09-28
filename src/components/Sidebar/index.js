@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import './index.scss'
-import LogoS from '../../assets/images/logo-s.png'
-import LogoSubtitle from '../../assets/images/logo_sub.png'
+import Avatar from '../../assets/images/avataaars-1.png'
+// import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { 
     FontAwesomeIcon 
 } from '@fortawesome/react-fontawesome'
@@ -10,7 +10,8 @@ import {
 import { 
     faHome, 
     faUser, 
-    faEnvelope 
+    faEnvelope,
+    faBriefcase
 } from '@fortawesome/free-solid-svg-icons'
 
 import {
@@ -22,14 +23,14 @@ import {
 
 const Sidebar = () => (
   <div className="nav-bar">
-    <Link className="logo" to="/">
-      <img src={LogoS} alt="logo" />
-      <img className="sub-logo" src={LogoSubtitle} alt="steve" />
+    <Link className="avatar" to="/">
+      <img src={Avatar} alt="avatar" />
+      {/* <img className="sub-logo" src={LogoSubtitle} alt="steve" /> */}
     </Link>
     <nav>
       <NavLink
         exact='true'
-        activeclassname="active" // Fixed typo here
+        activeclassname="active"
         to="/"
       >
         <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
@@ -37,7 +38,15 @@ const Sidebar = () => (
 
       <NavLink
         exact='true'
-        activeclassname="active" // Fixed typo here
+        activeclassname="active"
+        to="/Portfolio"
+      >
+        <FontAwesomeIcon icon={faBriefcase} color="#4d4d4e" />
+      </NavLink>
+
+      <NavLink
+        exact='true'
+        activeclassname="active"
         className="about-link"
         to="/about"
       >
@@ -46,7 +55,7 @@ const Sidebar = () => (
 
       <NavLink
         exact='true'
-        activeclassname="active" // Fixed typo here
+        activeclassname="active"
         className="contact-link"
         to="/contact"
       >

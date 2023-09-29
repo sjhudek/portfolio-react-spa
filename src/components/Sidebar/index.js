@@ -41,6 +41,7 @@ const Sidebar = () => (
       <NavLink
         exact='true'
         activeclassname="active"
+        className="portfolio-link"
         to="/portfolio"
       >
         <FontAwesomeIcon icon={faBriefcase} color="#4d4d4e" />
@@ -99,4 +100,4 @@ const Sidebar = () => (
   </div>
 )
 
-export default Sidebar
+export default Sidebar;

@@ -19,7 +19,7 @@ import {
 import {
   faLinkedinIn,
   faGithub,
-  // faYoutube,
+  faYoutube,
   // faSkype,
 } from '@fortawesome/free-brands-svg-icons'
 
@@ -93,6 +93,17 @@ const Sidebar = () => (
           href="https://github.com/sjhudek"
         >
           <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />{' '}
+          {/* Updated icon name */}
+        </a>
+      </li>
+
+      <li>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://tinyurl.com/54my6jw5"
+        >
+          <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />{' '}
           {/* Updated icon name */}
         </a>
       </li>

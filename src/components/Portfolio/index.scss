@@ -1,0 +1,87 @@
+.container {
+    overflow: auto;
+  }  
+
+.project-row {
+    display: flex; // Keeps items in a row
+    align-items: flex-start;
+}
+
+.project-image, .project-link {
+    flex: 7; // You can adjust this value to give more space to either image or text.
+}
+
+.project-image img {
+    width: 550px; // Or whatever width you desire.
+    height: 300px; // Or whatever height you desire.
+}
+
+.project-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center; // Adjust as needed
+    
+    .project-description {
+        white-space: nowrap;
+        overflow: hidden; // to prevent overflow
+        text-overflow: ellipsis; // to indicate that the text is clipped
+        margin-left: 10px;;
+    }    
+    
+    .project-url a {
+        margin-top: 10px;
+        margin-left: 10px;
+        color: #fff;
+    }
+}
+
+/* The Modal (background) */
+.modal {
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .modal-button {
+    background: none;
+    color: white;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    text-decoration: underline;
+  }
+  

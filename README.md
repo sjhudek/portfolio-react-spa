@@ -12,9 +12,7 @@ You’ll deploy this application to GitHub Pages. Follow the instructions in the
 
 ## User Story
 
-```md
 As a prospective employer, actively seeking candidates proficient in constructing sophisticated single-page applications, I desire to navigate through a candidate’s live, React-based portfolio, showcasing diverse work samples. This will facilitate a comprehensive evaluation of their suitability for available roles, allowing me to discern their technical prowess, creativity, and problem-solving abilities in real-world scenarios.
-```
 
 ## Acceptance Criteria
 

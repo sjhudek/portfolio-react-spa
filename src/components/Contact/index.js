@@ -63,7 +63,6 @@ const Contact = () => {
                             name="name"
                             value={formData.name} // dynamic value
                             placeholder="Your name (required)"
-                            required
                             onChange={handleChange}
                             onBlur={handleBlur}
                         />
@@ -76,7 +75,6 @@ const Contact = () => {
                             name="email"
                             value={formData.email} // dynamic value
                             placeholder="yourname@example.com (required)"
-                            required
                             onChange={handleChange}
                             onBlur={handleBlur}
                         />

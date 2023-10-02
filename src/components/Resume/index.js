@@ -7,7 +7,9 @@ const Resume = () => {
         <div className="container resume-page">
             <div className="text-zone">
                 <h1>Resume</h1>
-                <FontAwesomeIcon icon={faFile} color="#ffd700" size='5x' />
+                <a href="https://drive.google.com/file/d/1yydEVxGeRkHibYOgDCUtfEQBLLrisIDC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                    <FontAwesomeIcon icon={faFile} color="#ffd700" size='5x' />
+                </a>
             </div>
         </div>
     )

@@ -2,7 +2,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/sjhudek/portfolio-react-spa",
+    "homepage": "https://sjhudek.github.io/portfolio-react-spa",
     "dependencies": {
       "@emailjs/browser": "^3.11.0",
       "@fortawesome/free-brands-svg-icons": "^6.4.2",

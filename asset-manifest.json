@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-spa/static/css/main.0351be4c.css",
-    "main.js": "/portfolio-react-spa/static/js/main.b28e7c61.js",
+    "main.css": "/portfolio-react-spa/static/css/main.77322207.css",
+    "main.js": "/portfolio-react-spa/static/js/main.ddaf82bd.js",
     "static/js/787.a2cb61a6.chunk.js": "/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js",
     "static/media/Flight-Tracker.png": "/portfolio-react-spa/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
     "static/media/Employee-Tracker.png": "/portfolio-react-spa/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
@@ -14,12 +14,12 @@
     "static/media/LaBelleAurore.woff2": "/portfolio-react-spa/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff": "/portfolio-react-spa/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "index.html": "/portfolio-react-spa/index.html",
-    "main.0351be4c.css.map": "/portfolio-react-spa/static/css/main.0351be4c.css.map",
-    "main.b28e7c61.js.map": "/portfolio-react-spa/static/js/main.b28e7c61.js.map",
+    "main.77322207.css.map": "/portfolio-react-spa/static/css/main.77322207.css.map",
+    "main.ddaf82bd.js.map": "/portfolio-react-spa/static/js/main.ddaf82bd.js.map",
     "787.a2cb61a6.chunk.js.map": "/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0351be4c.css",
-    "static/js/main.b28e7c61.js"
+    "static/css/main.77322207.css",
+    "static/js/main.ddaf82bd.js"
   ]
 }

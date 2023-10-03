@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5064d494.css",
+    "main.js": "/static/js/main.5502cf5b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Center-Mycological-Analytics.png": "/static/media/Center-Mycological-Analytics.9427dae475530f6a389c.png",
+    "static/media/Flight-Tracker.png": "/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
+    "static/media/Employee-Tracker.png": "/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
+    "static/media/NoSQL.png": "/static/media/NoSQL.a54edd5169e9b2eb2709.png",
+    "static/media/ORM-Ecommerce-2.png": "/static/media/ORM-Ecommerce-2.5dda7a2550ca8b4eddfd.png",
+    "static/media/ORM-Ecommerce-1.png": "/static/media/ORM-Ecommerce-1.51daf6374efc08f00a0b.png",
+    "static/media/Note-Taker-1.png": "/static/media/Note-Taker-1.56ea6267bcdf1ae84851.png",
+    "static/media/SVG-Image-Generator-1.png": "/static/media/SVG-Image-Generator-1.c8bc007f609e87b3ee2f.png",
+    "static/media/pwa-text-editor.png": "/static/media/pwa-text-editor.00633cf2510dcc5105b5.png",
+    "static/media/Note-Taker-2.png": "/static/media/Note-Taker-2.c2d21ea716b9d901ed7e.png",
+    "static/media/avataaars-1.png": "/static/media/avataaars-1.a73b5f665575cbd30100.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "index.html": "/index.html",
+    "main.5064d494.css.map": "/static/css/main.5064d494.css.map",
+    "main.5502cf5b.js.map": "/static/js/main.5502cf5b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5064d494.css",
+    "static/js/main.5502cf5b.js"
+  ]
+}

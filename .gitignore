@@ -12,6 +12,8 @@
 /build
 
 # misc
+.env
+.zshrc
 .DS_Store
 .env.local
 .env.development.local

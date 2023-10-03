@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sjhudek.github.io/portfolio-react-spa/static/css/main.54c0572c.css",
-    "main.js": "/sjhudek.github.io/portfolio-react-spa/static/js/main.abc50325.js",
+    "main.css": "/sjhudek.github.io/portfolio-react-spa/static/css/main.b58f0364.css",
+    "main.js": "/sjhudek.github.io/portfolio-react-spa/static/js/main.fd2feac0.js",
     "static/js/787.a2cb61a6.chunk.js": "/sjhudek.github.io/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js",
     "static/media/Flight-Tracker.png": "/sjhudek.github.io/portfolio-react-spa/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
     "static/media/Employee-Tracker.png": "/sjhudek.github.io/portfolio-react-spa/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
@@ -14,12 +14,12 @@
     "static/media/LaBelleAurore.woff2": "/sjhudek.github.io/portfolio-react-spa/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff": "/sjhudek.github.io/portfolio-react-spa/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "index.html": "/sjhudek.github.io/portfolio-react-spa/index.html",
-    "main.54c0572c.css.map": "/sjhudek.github.io/portfolio-react-spa/static/css/main.54c0572c.css.map",
-    "main.abc50325.js.map": "/sjhudek.github.io/portfolio-react-spa/static/js/main.abc50325.js.map",
+    "main.b58f0364.css.map": "/sjhudek.github.io/portfolio-react-spa/static/css/main.b58f0364.css.map",
+    "main.fd2feac0.js.map": "/sjhudek.github.io/portfolio-react-spa/static/js/main.fd2feac0.js.map",
     "787.a2cb61a6.chunk.js.map": "/sjhudek.github.io/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54c0572c.css",
-    "static/js/main.abc50325.js"
+    "static/css/main.b58f0364.css",
+    "static/js/main.fd2feac0.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4500ce89.css",
-    "main.js": "/static/js/main.b71cc266.js",
+    "main.css": "/static/css/main.24b6e028.css",
+    "main.js": "/static/js/main.57eabff0.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/Flight-Tracker.png": "/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
     "static/media/Employee-Tracker.png": "/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
@@ -14,12 +14,12 @@
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "index.html": "/index.html",
-    "main.4500ce89.css.map": "/static/css/main.4500ce89.css.map",
-    "main.b71cc266.js.map": "/static/js/main.b71cc266.js.map",
+    "main.24b6e028.css.map": "/static/css/main.24b6e028.css.map",
+    "main.57eabff0.js.map": "/static/js/main.57eabff0.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4500ce89.css",
-    "static/js/main.b71cc266.js"
+    "static/css/main.24b6e028.css",
+    "static/js/main.57eabff0.js"
   ]
 }

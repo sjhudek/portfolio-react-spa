@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./portfolio-react-spa/static/css/main.c2fb0b38.css",
-    "main.js": "./portfolio-react-spa/static/js/main.8078b59a.js",
-    "static/js/787.a2cb61a6.chunk.js": "./portfolio-react-spa/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Flight-Tracker.png": "./portfolio-react-spa/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
-    "static/media/Employee-Tracker.png": "./portfolio-react-spa/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
-    "static/media/NoSQL.png": "./portfolio-react-spa/static/media/NoSQL.a54edd5169e9b2eb2709.png",
-    "static/media/ORM-Ecommerce-2.png": "./portfolio-react-spa/static/media/ORM-Ecommerce-2.5dda7a2550ca8b4eddfd.png",
-    "static/media/ORM-Ecommerce-1.png": "./portfolio-react-spa/static/media/ORM-Ecommerce-1.51daf6374efc08f00a0b.png",
-    "static/media/pwa-text-editor.png": "./portfolio-react-spa/static/media/pwa-text-editor.00633cf2510dcc5105b5.png",
-    "static/media/avataaars-1.png": "./portfolio-react-spa/static/media/avataaars-1.a73b5f665575cbd30100.png",
-    "static/media/helvetica-neu.ttf": "./portfolio-react-spa/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "./portfolio-react-spa/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "./portfolio-react-spa/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "index.html": "./portfolio-react-spa/index.html",
-    "main.c2fb0b38.css.map": "./portfolio-react-spa/static/css/main.c2fb0b38.css.map",
-    "main.8078b59a.js.map": "./portfolio-react-spa/static/js/main.8078b59a.js.map",
-    "787.a2cb61a6.chunk.js.map": "./portfolio-react-spa/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/portfolio-react-spa/static/css/main.77322207.css",
+    "main.js": "/portfolio-react-spa/static/js/main.ddaf82bd.js",
+    "static/js/787.a2cb61a6.chunk.js": "/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Flight-Tracker.png": "/portfolio-react-spa/static/media/Flight-Tracker.14e6f6750b0a25c86bae.png",
+    "static/media/Employee-Tracker.png": "/portfolio-react-spa/static/media/Employee-Tracker.dce9c312c3084fb85b86.png",
+    "static/media/NoSQL.png": "/portfolio-react-spa/static/media/NoSQL.a54edd5169e9b2eb2709.png",
+    "static/media/ORM-Ecommerce-2.png": "/portfolio-react-spa/static/media/ORM-Ecommerce-2.5dda7a2550ca8b4eddfd.png",
+    "static/media/ORM-Ecommerce-1.png": "/portfolio-react-spa/static/media/ORM-Ecommerce-1.51daf6374efc08f00a0b.png",
+    "static/media/pwa-text-editor.png": "/portfolio-react-spa/static/media/pwa-text-editor.00633cf2510dcc5105b5.png",
+    "static/media/avataaars-1.png": "/portfolio-react-spa/static/media/avataaars-1.a73b5f665575cbd30100.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-react-spa/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/portfolio-react-spa/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio-react-spa/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "index.html": "/portfolio-react-spa/index.html",
+    "main.77322207.css.map": "/portfolio-react-spa/static/css/main.77322207.css.map",
+    "main.ddaf82bd.js.map": "/portfolio-react-spa/static/js/main.ddaf82bd.js.map",
+    "787.a2cb61a6.chunk.js.map": "/portfolio-react-spa/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2fb0b38.css",
-    "static/js/main.8078b59a.js"
+    "static/css/main.77322207.css",
+    "static/js/main.ddaf82bd.js"
   ]
 }

@@ -6,9 +6,17 @@ import { HashRouter } from 'react-router-dom';
 import App from './App';
 import './index.css';
 
+/* 
+
+(default) slash   /#/  /#/planets
+no slash  /#  /#planets
+hashbang  /#!/  /#!/planets
+
+*/
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <HashRouter>
+    <HashRouter hashType="hashbang">
       <App />
     </HashRouter>
   </React.StrictMode>
